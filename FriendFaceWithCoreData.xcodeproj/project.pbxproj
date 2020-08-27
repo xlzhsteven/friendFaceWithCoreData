@@ -15,6 +15,7 @@
 		D148BA2A24F6055400CA0820 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D148BA2824F6055400CA0820 /* LaunchScreen.storyboard */; };
 		D148BA3624F60E3100CA0820 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = D148BA3524F60E3100CA0820 /* Person.swift */; };
 		D1DF4B0B24F6A76600AA1FEB /* FriendFace.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D1DF4B0924F6A76600AA1FEB /* FriendFace.xcdatamodeld */; };
+		D1DF4B0D24F7648C00AA1FEB /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DF4B0C24F7648C00AA1FEB /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D148BA2B24F6055400CA0820 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D148BA3524F60E3100CA0820 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		D1DF4B0A24F6A76600AA1FEB /* FriendFace.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FriendFace.xcdatamodel; sourceTree = "<group>"; };
+		D1DF4B0C24F7648C00AA1FEB /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				D148BA1C24F6055300CA0820 /* SceneDelegate.swift */,
 				D148BA2124F6055300CA0820 /* ContentView.swift */,
 				D148BA3524F60E3100CA0820 /* Person.swift */,
+				D1DF4B0C24F7648C00AA1FEB /* DetailView.swift */,
 				D148BA2324F6055400CA0820 /* Assets.xcassets */,
 				D148BA2824F6055400CA0820 /* LaunchScreen.storyboard */,
 				D148BA2B24F6055400CA0820 /* Info.plist */,
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D148BA1B24F6055300CA0820 /* AppDelegate.swift in Sources */,
+				D1DF4B0D24F7648C00AA1FEB /* DetailView.swift in Sources */,
 				D148BA3624F60E3100CA0820 /* Person.swift in Sources */,
 				D148BA2224F6055300CA0820 /* ContentView.swift in Sources */,
 				D1DF4B0B24F6A76600AA1FEB /* FriendFace.xcdatamodeld in Sources */,
